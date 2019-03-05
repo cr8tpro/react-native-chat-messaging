@@ -1,0 +1,3 @@
+rootProject.name = 'ApplozicSample'
+
+include ':app'
